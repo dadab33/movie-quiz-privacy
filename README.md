@@ -26,10 +26,27 @@ Movie Quiz ne collecte, ne stocke et ne partage PAS :
 - Photos ou médias
 - Informations de paiement
 
-## 4. Achats In-App (Si applicable)
-Les achats in-app sont gérés exclusivement par Google Play Billing.
-Nous n'avons pas accès à vos informations bancaires ou de paiement.
-Ces données sont gérées directement par Google.
+## 4. Achats In-App
+
+Movie Quiz propose des catégories de questions supplémentaires disponibles à l'achat.
+
+### Produits disponibles :
+- Catégorie "Films d'Animation" : 1.99€
+- Catégorie "Films d'Horreur" : 1.99€
+- Catégorie "Comédies" : 1.99€
+- Catégorie "Films d'Action" : 1.99€
+- Catégorie "Science-Fiction" : 1.99€
+
+### Informations importantes :
+- Les achats sont des **achats uniques** (non récurrents)
+- Une fois achetée, la catégorie reste débloquée définitivement
+- Les paiements sont gérés exclusivement par **Google Play Billing**
+- Nous ne stockons PAS vos informations de paiement
+- Nous ne collectons PAS de données liées à vos achats
+- Google Play gère tous les aspects de la transaction
+
+### Remboursements :
+Les demandes de remboursement doivent être effectuées via Google Play Store selon leurs conditions générales.
 
 ## 5. Services Tiers
 Movie Quiz n'utilise aucun service tiers d'analyse ou de publicité.
